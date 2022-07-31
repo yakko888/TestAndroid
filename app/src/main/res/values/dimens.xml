@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="letter_ultramin">12sp</dimen>
+    <dimen name="letter_min">14sp</dimen>
+    <dimen name="letter_regular">18sp</dimen>
+    <dimen name="letter_title">24sp</dimen>
+    <dimen name="letter_title_large">40sp</dimen>
+
+</resources>

@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">TestAndroid</string>
+    <string name="app_name">TestAndroid -  Enrique Morales</string>
+
+    <string name="label_votacion">Votación:</string>
+    <string name="label_average">Votación:</string>
+    <string name="label_date">Fecha:</string>
+    <string name="label_populate">Popularidad:</string>
 </resources>
