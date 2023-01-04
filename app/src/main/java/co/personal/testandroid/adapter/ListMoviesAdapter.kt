@@ -17,6 +17,7 @@ import com.google.android.material.bottomsheet.BottomSheetDialog
 
 class ListMoviesAdapter(context: Context, data: Movie): RecyclerView.Adapter<ListMoviesAdapter.ViewHolder>(){
 
+
     var data: Movie? = null
     var context: Context? = null
     var mFragmentManager: FragmentManager? = null
